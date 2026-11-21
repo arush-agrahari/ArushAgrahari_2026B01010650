@@ -4,8 +4,7 @@
 **Repository:** `ArushAgrahari_2026B01010650`  
 
 ---
-requirements --> numpy, pandas, matplotlib, jupyterlab
----
+
 
 ## 1. Introduction & Objective
 ### 1.1 Purpose
